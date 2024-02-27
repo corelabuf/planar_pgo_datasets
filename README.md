@@ -1,2 +1,2 @@
-# planar_pgo_datasets
+# Planar PGO Datasets
 Planar Pose Graph Optimization datasets
