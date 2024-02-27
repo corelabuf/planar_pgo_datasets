@@ -1,5 +1,6 @@
-# Planar PGO Datasets
-Planar Pose Graph Optimization datasets
+# Planar Pose Graph Optimization Datasets
+
+The [datasets](/datasets) folder contains the ground truth for the Grid1000, M3500, and City10000 datasets as well as 5 additional datasets per graph with increasing measurement noise applied, for a total of 15 trial dataset graphs. The datasets are in the .g2o file format, as detailed in [g2oVStoro](https://www.dropbox.com/s/uwwt3ni7uzdv1j7/g2oVStoro.pdf?e=1&dl=0) by Luca Carlone.
 
 ### Grid1000 Dataset
 Ground truth Grid1000 dataset:
