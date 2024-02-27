@@ -2,6 +2,7 @@
 Planar Pose Graph Optimization datasets
 
 ### Grid1000 Dataset
+Ground truth Grid1000 dataset:
 ![intel dataset](images/g1000_gt.svg)
 
 ### M3500 Dataset
@@ -16,6 +17,7 @@ Credit for the ground truth M3500 dataset goes to the authors of:
   organization={IEEE}
 }
 ``` 
+Ground truth M3500 dataset:
 ![intel dataset](images/m3500_gt.svg)
 
 ### City10000 Dataset
@@ -32,4 +34,5 @@ Credit for the ground truth City10000 dataset goes to the authors of:
   publisher={IEEE}
 }
 ``` 
+Ground truth City10000 dataset:
 ![intel dataset](images/c10k_gt.svg)
